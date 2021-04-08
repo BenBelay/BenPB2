@@ -36,19 +36,19 @@ Another change made was to use a Raspberry Pi robot as opposed to using an Ardui
 
 Below is an image of the Raspberry Pi:
 
-![Image of the Raspberry Pi robot](C:\Users\benja\Desktop\PB2\Resources\Images\Raspberry Pi robot)
+![Image of the Raspberry Pi robot](https://github.com/BenBelay/BenPB2/blob/978c04e6f35bda9583cb314df931d503146bccb5/Resources/Images/Raspberry%20Pi%20robot)
 
 ## What has been done:
 
 ---
 
-I have created a project journal, using a tool called Notion, that myself and my group can collaboratively add to - mainly for organisation purposes. Here we can share resources easily as well as plan and schedule meetings: [https://www.notion.so/Copy-of-Programming-Black-PB2-2nd-Summative-d76b258ef7ee4204a26f84296398adb3](C:\Users\benja\Desktop\PB2\Resources\Images\Current webpage) (Date: 17/02/21 - 15/03/21).
+I have created a project journal, using a tool called Notion, that myself and my group can collaboratively add to - mainly for organisation purposes. Here we can share resources easily as well as plan and schedule meetings: [https://www.notion.so/Copy-of-Programming-Black-PB2-2nd-Summative-d76b258ef7ee4204a26f84296398adb3] (Date: 17/02/21 - 15/03/21).
 
 We have also started creating the front-end, client-side of the Progressive Web App. We have also implemented the service worker that allows for user requests to be cached. This means the remote controller application can work offline.
 
 Shown below is the current iteration of the user-end remote controller that would eventually control the movement of the robot.
 
-![Screenshot of current webpage layout - frontend](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9f0d540-eac7-4563-b4a0-445d11fc47c8/Untitled.png)
+![Screenshot of current webpage layout - frontend](https://github.com/BenBelay/BenPB2/blob/978c04e6f35bda9583cb314df931d503146bccb5/Resources/Images/Current%20webpage)
 
 ## What have I learned:
 
